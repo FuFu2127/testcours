@@ -1,10 +1,39 @@
 * {
     margin: 0;
     padding: 0;
+    text-decoration: none;
+}
+
+#Tbar {
+    display: flex;
+    background: grey;
+    padding: 20px;
+    align-items: center;
+}
+
+a {
+    color: pink;
+}
+
+p {
+    color: pink;
+    background-color: gray;
+    width: 10%;
+}
+
+nav {
+    width: 20%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.items {
+    display: flex;
+    flex-direction: column;
 }
 
 header {
-    background-color: red;
+    background-color: grey;
 }
 
 main {
