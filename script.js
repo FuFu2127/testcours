@@ -1,1 +1,1 @@
-document.querySelector('.box').textContent = 'BOX!!'
+document.querySelector('.box').textContent = 'CHANGEMENT LOCAL';
